@@ -56,6 +56,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongsBy&langs_count=8&theme=dark)](https://github.com/SongsBy/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongsBy&show_icons=true&theme=highcontrast)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songcoding)](https://velog.io/@songcoding/posts)

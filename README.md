@@ -16,8 +16,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongsBy&hide=contribs,prs&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongsBy&langs_count=8)](https://github.com/SongsBy/github-readme-stats)
 
 
 

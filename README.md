@@ -4,13 +4,13 @@
 
 - 🔭 나는 현재 ... 학생
 -	💡 목표 직군: 프론트엔드 기반의 앱 개발자
--	
+
 -	📱 Flutter와 Firebase를 활용한 모바일 앱 개발 역량을 강화 중
--	
+  
 -	🎯 **사용자 경험(UX)**을 고려한 깔끔하고 직관적인 UI 구현에 집중
--	
+  
 -	📈 앞으로는 애니메이션과 상태 관리 기술, 앱 배포까지 경험하며 실무에 가까운 프로젝트를 만들어가는 것이 목표입니다.
--	
+  
 -	- 📫 Email : songzh0415@gmail.com
 -	[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/여기에_너의_노션_링크)
 

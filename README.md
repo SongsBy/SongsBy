@@ -12,7 +12,7 @@
   
 📈 앞으로는 애니메이션과 상태 관리 기술, 앱 배포까지 경험하며 실무에 가까운 프로젝트를 만들어가는 것이 목표입니다.
   
-📫 Email : songzh0415@gmail.com
+📫 Email : songzh0415@gmail.com , songzh0415@tukorea.ac.kr
 
 
 ---

@@ -69,10 +69,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
- ## 📊 I'm trying
+## 📊 I'm trying
   
 [![Song's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongsBy&theme=react-dark&bg_color=0D1117&color=00D2B8&line=00D2B8&point=FFFFFF&area=true&hide_border=true)](https://github.com/SongsBy)
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SongsBy&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&refresh=1)](https://git.io/streak-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songcoding)](https://velog.io/@songcoding/posts)
+
+</div>

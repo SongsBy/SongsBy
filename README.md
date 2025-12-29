@@ -73,6 +73,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SongsBy&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&refresh=1)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자이름)](https://github.com/사용자이름/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자이름)](https://github.com/SongsBy/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songcoding)](https://velog.io/@songcoding/posts)

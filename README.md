@@ -71,7 +71,7 @@
 
   ## 📊 I'm trying
   
-[![Song's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongsBy&theme=github-compact&bg_color=001F3F&color=4FC3F7&line=4FC3F7&point=E3F2FD&area=true&hide_border=true)](https://github.com/SongsBy)
+[![Song's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongsBy&theme=react-dark&bg_color=0D1117&color=00D2B8&line=00D2B8&point=FFFFFF&area=true&hide_border=true)](https://github.com/SongsBy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SongsBy&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&refresh=1)](https://git.io/streak-stats)
 

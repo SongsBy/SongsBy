@@ -75,12 +75,8 @@
 
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=songsby&theme=highcontrast&v=1"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://streak-stats.demolab.com?user=songsby&theme=highcontrast&v=2" />
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songcoding)](https://velog.io/@songcoding/posts)
 
 </div>

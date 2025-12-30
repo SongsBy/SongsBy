@@ -11,7 +11,6 @@
 
 <p align="center">
   📫 Email <br/>
-  
   songzh0415@gmail.com · songzh0415@tukorea.ac.kr
 </p>
 
